@@ -13,11 +13,11 @@ if($number==1){
 		echo "Reg Number: ".$row['regno']."<br>";
 		echo "Category: ".$row['category']."<br>";
 		echo "Gender: ".$row['gender']."<br>";
-
+		echo "<a href='index.php'>Back</a>";
 	}
 
 }
 else{
-	echo "Sorry! Wrong username or password!   Please try again</a>";
+	echo "Sorry! Wrong username or password!   Please try again </br><a href='index.php'>Back to homepage!</a>";
 }
 ?>
