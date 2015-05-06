@@ -7,7 +7,7 @@
   Name: <input type="text" name="name" />
   Password: <input type="password" name="pass" />
 
-  <input type="submit" />
+  <input type="submit" value="Login"/>
   </form>
 
  <h2>ACM Member Register!</h2>
@@ -28,7 +28,7 @@
 
 
 
-  <input type="submit" />
+  <input type="submit" value="Register" />
   </form>
 </body>
 </html>
