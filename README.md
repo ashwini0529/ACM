@@ -4,7 +4,11 @@ A simple User Registration/Authentication form to get you familiar with the GET/
 ---------------------------------------------------------------------------------
 UPDATES: 
 1. Added Form validation code
+
 2. send emails by php . 
+
 3. Generate PNG images.
+
 4. Get client IP .
+
 Go through it. Any issues, raise one.
